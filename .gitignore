@@ -1,3 +1,7 @@
 /build/
 /results/sequential_results.txt
 *.out
+*.o
+*.a
+*.so
+*.d
